@@ -1,0 +1,28 @@
+body {
+    background-color: #CCFFFF;
+  }
+
+  h1 {
+    color: #0D004D;
+    text-align: center;
+  }
+
+  h2 {
+    color: rgb(51,0,77);
+    text-align: center;
+  }
+  * { margin : 0px ;
+    box-sizing: border-box;
+}
+
+div { padding: 5px ; border : 1px solid #004D00 ;
+ }
+
+div.column { float : left; height: 500px ; }
+div.side { width : 15% ; }
+div.main { width : 70% ; }
+div.footer { clear : both ; }
+img {
+    height: 80%;
+    width: 40%;
+}
